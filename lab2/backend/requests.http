@@ -1,0 +1,37 @@
+@hostname = http://localhost:80/api 
+
+### List C(R)UD
+GET {{hostname}}/album.get
+Content-Type: application/json
+
+### Retrieve C(R)UD
+GET {{hostname}}/album.get/300
+Content-Type: application/json
+
+### Create (C)RUD
+POST {{hostname}}/album.create
+Content-Type: application/json
+
+{
+    "name": "cloud",
+    "author": "Igor",
+    "release_date": "2020-12-4",
+    "genre": "Pop",
+    "songs_quantitty": 12
+}
+
+### Delete CRU(D)
+GET {{hostname}}/album.delete/1
+Content-Type: application/json
+
+### Update CR(U)D
+POST {{hostname}}/album.update/1
+Content-Type: application/json
+
+{
+    "name": "cloud2",
+    "author": "Igor",
+    "release_date": "2020-12-5",
+    "genre": "Pop",
+    "songs_quantitty": 12
+}
