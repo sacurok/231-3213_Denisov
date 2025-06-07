@@ -1,11 +1,11 @@
-@hostname = http://localhost:80/api 
+@hostname = http://localhost:8000/api 
 
 ### List C(R)UD
 GET {{hostname}}/album.get
 Content-Type: application/json
 
 ### Retrieve C(R)UD
-GET {{hostname}}/album.get/1004
+GET {{hostname}}/album.get/0
 Content-Type: application/json
 
 ### Create (C)RUD
@@ -21,11 +21,11 @@ Content-Type: application/json
 }
 
 ### Delete CRU(D)
-GET {{hostname}}/album.delete/1004
+GET {{hostname}}/album.delete/10002
 Content-Type: application/json
 
 ### Update CR(U)D
-POST {{hostname}}/album.update/1004
+POST {{hostname}}/album.update/10003
 Content-Type: application/json
 
 {

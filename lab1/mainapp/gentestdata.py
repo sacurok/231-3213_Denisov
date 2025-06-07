@@ -11,7 +11,7 @@ from .models import *
 def gentestdata():
 
     with transaction.atomic():
-        for i in range(10000):
+        for i in range(1000):
             newMusicAlbum = MusicAlbum()
             authors = [fk.name() for _ in range(10)]
             

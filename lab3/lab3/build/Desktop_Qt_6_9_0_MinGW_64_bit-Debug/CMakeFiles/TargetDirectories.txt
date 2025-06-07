@@ -1,9 +1,0 @@
-C:/Users/user/Desktop/учеба/архитектуры/231-3213_Denisov/lab3/lab3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/lab3.dir
-C:/Users/user/Desktop/учеба/архитектуры/231-3213_Denisov/lab3/lab3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/user/Desktop/учеба/архитектуры/231-3213_Denisov/lab3/lab3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/user/Desktop/учеба/архитектуры/231-3213_Denisov/lab3/lab3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Users/user/Desktop/учеба/архитектуры/231-3213_Denisov/lab3/lab3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Users/user/Desktop/учеба/архитектуры/231-3213_Denisov/lab3/lab3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Users/user/Desktop/учеба/архитектуры/231-3213_Denisov/lab3/lab3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/Users/user/Desktop/учеба/архитектуры/231-3213_Denisov/lab3/lab3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/lab3_autogen_timestamp_deps.dir
-C:/Users/user/Desktop/учеба/архитектуры/231-3213_Denisov/lab3/lab3/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/lab3_autogen.dir
